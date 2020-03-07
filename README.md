@@ -1,2 +1,1 @@
 # RequestsAndResponses
-# Django_Tutorial
